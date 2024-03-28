@@ -1,0 +1,8 @@
+# .npmignore
+.vscode/
+test/
+src/
+dist/
+js/
+webpack.config.js
+jest.config.js

@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+        {
+            "command": "npm run start",
+            "name": "Run start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "command": "npm run build",
+            "name": "Run build",
+            "request": "launch",
+            "type": "node-terminal"
+        }
+    ]
+}
