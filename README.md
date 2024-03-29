@@ -1,3 +1,11 @@
+# [khmerformat](https://github.com/kdamdev/khmerformat-js)
+
+[![NPM version][npm-version-image]][npm-url]
+[![NPM downloads][npm-downloads-image]][npm-downloads-url]
+[![MIT License][license-image]][license-url]
+
+This library is open-source that included some usage in Khmer local
+
 # Build
 `Follow this below guide to modify library`
 
@@ -11,8 +19,12 @@ How to build
 
 # Usages
 ## npm
+```
+npm i @kdamdev/khmerformat
+```
+
 ````
-import { lunarDate, solarDate, numeric } from "khmerformat";
+import { lunarDate, solarDate, numeric } from '@kdamdev/khmerformat';
 ````
 
 ###  Khmer Lunar Date
