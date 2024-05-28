@@ -11,7 +11,7 @@ This library is open-source that included some usage in Khmer local
 Pre-requires
 * Node.js 16 +
 * npm
-* webpack
+* vite
 
 How to build
 * `npm install && npm run build`
@@ -47,6 +47,7 @@ const solar = solarDate(new Date(2024, 3, 13));
 const solar = solarDate('13-04-2024', 'DD-MM-YYYY');
 
 solar.toString() // ថ្ងៃទី១៣ ខែមេសា ឆ្នាំ២០២៤
+solar.getDayOfWeek() // សៅរ៍
 solar.getDay() // ១៣
 solar.getMonth() // មេសា
 solar.getYear() // ២០២៤
@@ -84,6 +85,7 @@ var solar = kh.solarDate(new Date(2024, 3, 13));
 var solar = kh.solarDate('13-04-2024', 'DD-MM-YYYY');
 
 solar.toString() // ថ្ងៃទី១៣ ខែមេសា ឆ្នាំ២០២៤
+solar.getDayOfWeek() // សៅរ៍
 solar.getDay() // ១៣
 solar.getMonth() // មេសា
 solar.getYear() // ២០២៤
