@@ -107,6 +107,7 @@ num.toKhmerText() // មួយរយម្ភៃបីលានបួនរយ�
 4. [wikipedia ចន្ទគតិ](https://km.m.wikipedia.org/wiki/%E1%9E%85%E1%9E%93%E1%9F%92%E1%9E%91%E1%9E%82%E1%9E%8F%E1%9E%B7)
 5. [wikipedia](https://km.wikipedia.org/wiki/%E1%9E%A2%E1%9E%B6%E1%9E%9F%E1%9E%B6%E1%9E%8D)
 6. [https://btkhmer.com/Cult-Mohasankran-KH.pdf](https://btkhmer.com/Cult-Mohasankran-KH.pdf)
+7. [ThmeyThmey- ស័ក](https://kohsantepheapdaily.com.kh/article/1289878.html)
 
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
